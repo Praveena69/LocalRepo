@@ -1,1 +1,3 @@
-this is new repo
+this is new repogit
+
+i can do it 
